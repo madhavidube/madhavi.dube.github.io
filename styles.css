@@ -473,7 +473,7 @@ main {
 /* Main section with Background Image */
 #home {
     position: relative;
-    background: url('graduation3.jpg') no-repeat center center;
+    background: url('graduation3.png') no-repeat center center;
     background-size: cover;
     height: 500px; /* Adjust the height as needed */
     width: 100%;
